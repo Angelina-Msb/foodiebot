@@ -1,0 +1,63 @@
+name,cuisine,category,meal_type,price,spice,description
+Masala Dosa,Indian,Vegetarian,Breakfast,90,Medium,"Crisp rice crepe filled with spiced potato, served with chutney and sambar."
+Idli Sambar,Indian,Vegetarian,Breakfast,70,Mild,Soft steamed rice cakes with lentil sambar and coconut chutney.
+Aloo Paratha,Indian,Vegetarian,Breakfast,80,Medium,"Whole-wheat flatbread stuffed with spiced potato, served with curd."
+Poha,Indian,Vegetarian,Breakfast,60,Mild,"Flattened rice tempered with peanuts, curry leaves and lemon."
+Egg Bhurji Pav,Indian,Non-Vegetarian,Breakfast,110,Spicy,"Spicy scrambled eggs with onion and tomato, served with buttered pav."
+Paneer Butter Masala,Indian,Vegetarian,Lunch,220,Medium,"Soft paneer cubes in a rich, creamy tomato gravy."
+Veg Thali,Indian,Vegetarian,Lunch,180,Medium,"Dal, two sabzis, roti, rice, salad and sweet in one plate."
+Chole Bhature,Indian,Vegetarian,Lunch,150,Spicy,Tangy chickpea curry with fluffy deep-fried bread.
+Chicken Biryani,Indian,Non-Vegetarian,Lunch,280,Spicy,Fragrant basmati rice layered with marinated chicken and spices.
+Mutton Curry Meals,Indian,Non-Vegetarian,Lunch,450,Spicy,Slow-cooked mutton curry with rice and roti.
+Dal Tadka with Rice,Indian,Vegetarian,Dinner,140,Mild,"Yellow lentils tempered with garlic and cumin, served with steamed rice."
+Butter Chicken with Naan,Indian,Non-Vegetarian,Dinner,330,Medium,Tandoori chicken in a velvety tomato-butter sauce with naan.
+Palak Paneer,Indian,Vegetarian,Dinner,210,Mild,Paneer in a smooth spinach gravy with mild spices.
+Fish Curry Meals,Indian,Non-Vegetarian,Dinner,350,Spicy,Coastal-style tangy fish curry served with rice.
+Samosa Chaat,Indian,Vegetarian,Snacks,70,Spicy,"Crushed samosa topped with chole, yogurt and chutneys."
+Pani Puri,Indian,Vegetarian,Snacks,50,Spicy,Crisp shells filled with spicy mint water and chickpeas.
+Chicken 65,Indian,Non-Vegetarian,Snacks,190,Spicy,Crispy fried chicken bites tossed with curry leaves and chillies.
+Vada Pav,Indian,Vegetarian,Snacks,40,Medium,Mumbai-style spiced potato fritter in a soft bun.
+Veg Momos Breakfast Combo,Chinese,Vegetarian,Breakfast,100,Mild,Steamed vegetable dumplings with a light dipping sauce.
+Egg Fried Rice,Chinese,Non-Vegetarian,Breakfast,120,Mild,Wok-tossed rice with scrambled egg and spring onion.
+Veg Hakka Noodles,Chinese,Vegetarian,Lunch,130,Medium,Stir-fried noodles with crunchy vegetables and soy.
+Chicken Manchurian with Rice,Chinese,Non-Vegetarian,Lunch,210,Spicy,"Fried chicken in a tangy, garlicky Manchurian sauce with rice."
+Veg Manchurian,Chinese,Vegetarian,Dinner,160,Medium,"Vegetable dumplings in a savoury, tangy brown sauce."
+Chilli Chicken,Chinese,Non-Vegetarian,Dinner,240,Spicy,Crispy chicken with bell peppers in a fiery chilli sauce.
+Hot and Sour Soup,Chinese,Vegetarian,Dinner,90,Spicy,"Peppery, tangy soup with mushrooms and tofu."
+Schezwan Fried Rice,Chinese,Vegetarian,Dinner,170,Spicy,Wok fried rice with fiery Schezwan sauce and vegetables.
+Veg Spring Rolls,Chinese,Vegetarian,Snacks,90,Mild,Golden crisp rolls stuffed with cabbage and carrot.
+Chicken Momos,Chinese,Non-Vegetarian,Snacks,120,Medium,Juicy steamed chicken dumplings with red chilli chutney.
+Crispy Honey Chilli Potato,Chinese,Vegetarian,Snacks,140,Medium,Crunchy potato fingers in a sweet and spicy glaze.
+Prawn Garlic Noodles,Chinese,Non-Vegetarian,Lunch,320,Medium,Garlicky noodles tossed with juicy prawns.
+Veggie Omelette Toast,Italian,Vegetarian,Breakfast,110,Mild,"Fluffy omelette with peppers, served with toasted bread."
+Garlic Bread with Cheese,Italian,Vegetarian,Snacks,120,Mild,Toasted baguette with garlic butter and melted mozzarella.
+Margherita Pizza,Italian,Vegetarian,Lunch,250,Mild,"Classic thin-crust pizza with tomato, mozzarella and basil."
+Penne Arrabbiata,Italian,Vegetarian,Lunch,230,Spicy,Penne in a spicy tomato and garlic sauce.
+Chicken Alfredo Pasta,Italian,Non-Vegetarian,Dinner,320,Mild,Creamy parmesan pasta with grilled chicken.
+Pepperoni Pizza,Italian,Non-Vegetarian,Dinner,380,Medium,Cheesy pizza loaded with spicy pepperoni.
+Mushroom Risotto,Italian,Vegetarian,Dinner,290,Mild,Creamy arborio rice with sauteed mushrooms and parmesan.
+Lasagna Bolognese,Italian,Non-Vegetarian,Dinner,420,Medium,"Layers of pasta, rich meat ragu and bechamel."
+Bruschetta,Italian,Vegetarian,Snacks,150,Mild,"Grilled bread topped with tomato, basil and olive oil."
+Chicken Panini,Italian,Non-Vegetarian,Snacks,210,Medium,"Grilled sandwich with chicken, pesto and cheese."
+Breakfast Burrito,Mexican,Non-Vegetarian,Breakfast,180,Medium,"Tortilla filled with eggs, beans, cheese and salsa."
+Huevos Rancheros Veg,Mexican,Vegetarian,Breakfast,150,Medium,Fried eggs-style paneer over tortilla with ranchero sauce.
+Veg Burrito Bowl,Mexican,Vegetarian,Lunch,190,Medium,"Rice, beans, corn, salsa and guacamole in a bowl."
+Chicken Quesadilla,Mexican,Non-Vegetarian,Lunch,260,Medium,Grilled tortilla with melted cheese and spiced chicken.
+Bean and Cheese Enchiladas,Mexican,Vegetarian,Dinner,240,Medium,"Baked tortillas with beans, cheese and red sauce."
+Chicken Fajita Plate,Mexican,Non-Vegetarian,Dinner,360,Spicy,"Sizzling chicken, peppers and onions with tortillas."
+Veg Tacos,Mexican,Vegetarian,Snacks,130,Mild,"Soft tacos with beans, lettuce, cheese and salsa."
+Nachos with Cheese Dip,Mexican,Vegetarian,Snacks,160,Spicy,Crunchy tortilla chips with jalapeno cheese dip and salsa.
+Chicken Tacos,Mexican,Non-Vegetarian,Snacks,180,Spicy,Spiced chicken in crisp shells with pico de gallo.
+Mexican Rice Bowl Mild,Mexican,Vegetarian,Dinner,120,Mild,Tomato rice with sweet corn and mild beans.
+Chicken Tikka,Indian,Non-Vegetarian,Lunch,240,Spicy,Charred tandoori chicken pieces marinated in yogurt and spices with mint chutney.
+Chicken Curry Meals,Indian,Non-Vegetarian,Lunch,200,Spicy,Home-style chicken curry served with rice and roti.
+Egg Biryani,Indian,Non-Vegetarian,Lunch,170,Spicy,Fragrant basmati rice layered with spiced boiled eggs and fried onions.
+Fish Fry,Indian,Non-Vegetarian,Lunch,260,Spicy,Crisp masala-coated fish fillets served with onion rings and lemon.
+Andhra Chicken Fry Meals,Indian,Non-Vegetarian,Lunch,230,Spicy,Fiery Andhra-style dry chicken fry with rice and rasam.
+Mutton Keema Pav,Indian,Non-Vegetarian,Lunch,290,Spicy,Minced mutton cooked with spices and served with buttered pav.
+Prawn Masala Rice,Indian,Non-Vegetarian,Lunch,300,Spicy,Juicy prawns in a spicy coastal masala served over steamed rice.
+Egg Curry Meals,Indian,Non-Vegetarian,Lunch,150,Medium,Boiled eggs in a rich onion-tomato gravy with rice.
+Tandoori Chicken Platter,Indian,Non-Vegetarian,Dinner,320,Medium,Smoky half tandoori chicken with salad and mint dip.
+Egg Curry with Paratha,Indian,Non-Vegetarian,Dinner,190,Medium,Egg curry served with flaky layered paratha.
+Chicken Seekh Kebab,Indian,Non-Vegetarian,Snacks,200,Spicy,Minced chicken kebabs grilled on skewers with green chutney.
+Keema Paratha,Indian,Non-Vegetarian,Breakfast,130,Medium,"Flatbread stuffed with spiced minced meat, served with curd."
